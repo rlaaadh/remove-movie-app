@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/dahye";
 
 export default class TheHeader extends Component{
   constructor(){
@@ -49,7 +49,7 @@ export default class TheHeader extends Component{
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="https://heropy.blog/css/images/logo.png" alt="User">
+        <img src="https://avatars.githubusercontent.com/u/149958294?u=b5f471e4b595dee5b36fa9378f3c387f5b6e248c&v=4" alt="User">
       </a>
     `
   }

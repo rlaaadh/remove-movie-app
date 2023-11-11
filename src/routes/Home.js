@@ -1,4 +1,4 @@
-import { Component } from '../core/heropy'
+import { Component } from '../core/dahye'
 import Headline from '../components/Headline'
 import Seach from '../components/Search'
 import MovieList from '../components/MovieList'

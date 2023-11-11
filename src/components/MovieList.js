@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy"
+import { Component } from "../core/dahye"
 import movieStore from "../store/movie"
 import MovieItem from "./MovieItem"
 

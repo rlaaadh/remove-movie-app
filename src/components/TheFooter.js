@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/dahye";
 import aboutStore from '../store/about'
 
 export default class TheFooter extends Component{
@@ -16,7 +16,7 @@ export default class TheFooter extends Component{
       <div>
         <a href="${github}">
           ${new Date().getFullYear()}
-          HEROPY
+          DAHYE
         </a>
       </div>
     `
